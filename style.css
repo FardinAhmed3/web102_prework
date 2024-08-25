@@ -73,3 +73,18 @@ button {
     margin: 1%;
     border-radius: 7px;
 }
+#search-container {
+    text-align: center;
+    font-family: 'Cabin';
+    border: black;
+    padding: 1%;
+    margin: 1%;
+    border-radius: 7px;
+}
+
+#search-btn {
+padding: 5px;
+}
+#reset-btn {
+    padding: 5px;
+}
